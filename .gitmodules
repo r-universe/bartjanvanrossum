@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "LMMsolver"]
 	path = LMMsolver
 	url = https://github.com/cran/LMMsolver
-	shallow = true
-	registered = true
 [submodule "statgenMPP"]
 	path = statgenMPP
 	url = https://github.com/cran/statgenMPP
-	shallow = true
-	registered = true
 [submodule "statgenQTLxT"]
 	path = statgenQTLxT
 	url = https://github.com/cran/statgenQTLxT
-	shallow = true
-	registered = true
