@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "LMMsolver"]
-	path = LMMsolver
-	url = https://github.com/cran/LMMsolver
 [submodule "factReg"]
 	path = factReg
 	url = https://github.com/cran/factReg
