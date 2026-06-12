@@ -5,6 +5,9 @@
 [submodule "factReg"]
 	path = factReg
 	url = https://github.com/cran/factReg
+[submodule "heritability"]
+	path = heritability
+	url = https://github.com/cran/heritability
 [submodule "statgenQTLxT"]
 	path = statgenQTLxT
 	url = https://github.com/cran/statgenQTLxT
